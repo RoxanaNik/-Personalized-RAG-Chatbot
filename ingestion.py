@@ -59,7 +59,7 @@ text_splitter = RecursiveCharacterTextSplitter(
 # creating the chunks
 documents = text_splitter.split_documents(raw_documents)
 
-# generate unique id's for the docs
+# generate unique id's for the docs tt
 
 i = 0
 uuids = []
