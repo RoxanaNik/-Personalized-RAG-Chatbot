@@ -16,7 +16,7 @@ load_dotenv()
 
 st.title("Chatbot")
 
-# initialize pinecone database
+# initialize pinecone databases
 pc = Pinecone(api_key=os.environ.get("PINECONE_API_KEY"))
 
 # initialize pinecone database
