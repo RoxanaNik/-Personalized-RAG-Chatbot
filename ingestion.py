@@ -1,4 +1,4 @@
-# import basics
+# import basics and libraries
 import os
 import time
 from dotenv import load_dotenv

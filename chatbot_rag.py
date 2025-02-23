@@ -1,4 +1,4 @@
-#import streamlit
+#import streamlit libaries
 import streamlit as st
 import os
 from dotenv import load_dotenv
