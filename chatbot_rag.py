@@ -42,7 +42,7 @@ for message in st.session_state.messages:
         with st.chat_message("assistant"):
             st.markdown(message.content)
 
-# create the bar which we can type messages
+# create the bar which we can type messages and texts
 prompt = st.chat_input("How are you?")
 
 # did the user submit a prompt?
