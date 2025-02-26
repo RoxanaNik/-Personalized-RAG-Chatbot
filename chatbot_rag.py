@@ -3,7 +3,7 @@ import streamlit as st
 import os
 from dotenv import load_dotenv
 
-# import pinecones
+# import pinecone :)
 from pinecone import Pinecone, ServerlessSpec
 
 # import langchain
