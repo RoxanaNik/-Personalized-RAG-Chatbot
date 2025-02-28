@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 # import pinecone :)
 from pinecone import Pinecone, ServerlessSpec
 
-# import langchains
+# import langchainss
 from langchain_pinecone import PineconeVectorStore
 from langchain_openai import OpenAIEmbeddings
 from langchain_openai import ChatOpenAI
