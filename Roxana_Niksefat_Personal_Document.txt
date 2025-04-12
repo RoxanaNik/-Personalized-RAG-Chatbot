@@ -1,0 +1,109 @@
+
+Roxana Niksefat: Personal Knowledge Document
+
+Basic Information
+- Full Name: Roxana Niksefat (also known as Maryam Niksefat for official documents)
+- Date of Birth: November 18, 2000
+- Nationality: Iranian
+- Current Status: Immigrant in Canada on a Post-Graduate Work Permit (PGWP)
+- Languages: English (fluent), Persian (native), currently learning French
+- Astrological Sign: Scorpio (born on November 18)
+- Zodiac Moon: Cancer
+
+Academic Background
+- Bachelor’s Degree:
+  - Field: Statistics
+  - University: University of Guilan, Iran
+  - Scholarship: Full-ride scholarship awarded through national entrance exam.
+- Master’s Degree:
+  - Field: Applied Modeling and Quantitative Methods
+  - University: Trent University, Canada
+  - GPA: 4.0/4.0
+  - Graduation: January 2025
+  - Thesis Title: Performance of Time Series Interpolation Algorithms in the Presence of Noise
+  - Research Focus: Computational framework for evaluating interpolation methods in noisy, gappy, nonstationary time series data; comparison of HWI against classical methods such as KAF and EWMA.
+
+Technical Skills
+- Programming Languages: Python, R, SQL, Bash
+- Data Analysis: Pandas, NumPy, SciPy, Matplotlib, Seaborn, Plotly
+- Machine Learning: Scikit-learn, TensorFlow, Keras, PyTorch
+- Natural Language Processing (NLP): NLTK, spaCy, Hugging Face
+- Data Visualization Tools: Tableau, Power BI, Streamlit, Dash
+- Version Control: Git, GitHub, GitHub Copilot
+- Other Tools: LaTeX, MLFlow, Excel
+
+Work Experience
+- Research Assistant at Trent University:
+  - Conducted statistical modeling and time series analysis.
+  - Supported academic research in interpolation and time series simulations.
+- Teaching Assistant at Trent University:
+  - Taught and mentored undergraduate students in R programming and statistical concepts.
+- Pet Sitter (Rover Canada):
+  - Worked part-time as a responsible pet caregiver.
+- Retail and Customer Service Experience:
+  - Retail experience at Varlin Imports, showcasing adaptability and communication skills.
+
+Research Interests
+- Time Series Analysis and Forecasting
+- Signal Processing
+- Stochastic Processes
+- Frequency and Time Domain Analysis
+- Interpolation Techniques for Missing Data
+- Machine Learning Applications in Time Series
+- Generative AI and Retrieval-Augmented Generation (RAG)
+- Markov Chain Monte Carlo (MCMC) Methods
+- Unbiased Markov Chain Monte Carlo (UMCMC)
+- Statistical Computation and Numerical Methods
+- Couplings and Optimal Transport
+- Robust Statistics and Differential Geometry
+- Reinforcement Learning
+- Spectrum Estimation and Multitaper Methods
+- Nonstationary Time Series Interpolation and Data Imputation
+
+Career Goals
+- Short-term:
+  - Secure a role in data science, machine learning, or AI in Canada or Europe.
+- Long-term:
+  - Relocate to Paris, France and pursue a Ph.D. focusing on time series modeling, AI, or advanced probabilistic methods.
+
+Projects and Personal Initiatives
+- RAG Chatbot Development: Building a personal RAG chatbot.
+- Chatbot on Musk & Trump Tweets: Building a conversational chatbot on political discourse.
+
+Interests and Hobbies
+- Travel: Traveled solo across Europe.
+- Fitness: Strength training and healthy lifestyle.
+- Cats: Owner of a Scottish Fold cat named Tyga.
+- Personal Development: Focused on emotional resilience and personal growth.
+- Creative Hobbies: Songwriting, art generation, digital illustration.
+
+Notable Life Events
+- Immigration: Moved from Iran to Canada on September 9, 2022.
+- Master’s Graduation: Defended thesis in October 2024, graduated in January 2025.
+- Birthday Celebration: Celebrated in Paris with a friend.
+
+Personal Characteristics
+- Highly resilient, adaptable, perfectionist balanced by acceptance, introspective, adventurous.
+
+Contact Information
+- Email: rxnik53@gmail.com
+- LinkedIn: www.linkedin.com/in/roxananick
+- GitHub: www.github.com/RoxanaNik
+
+Thesis Summary
+- Title: Performance of Time Series Interpolation Algorithms in the Presence of Noise
+- Abstract: Thesis evaluates the Hybrid Wiener Interpolator (HWI) for reconstructing nonstationary time series. Simulation-based comparison against KAF and EWMA under different noise conditions demonstrated HWI’s robustness.
+- Methods: HWI, KAF, EWMA, Nearest Neighbor, Linear, Spline Interpolation.
+- Simulations and Applications: Surface plots, heatmaps, Sunspot dataset.
+- Conclusion: HWI outperforms other methods under noisy and gappy data conditions.
+
+FAQ Section
+- Degree: Master’s in Applied Modeling and Quantitative Methods
+- Thesis Focus: Performance of interpolation algorithms in noise
+- Research Interests: Time series, interpolation, MCMC, UMCMC, robust statistics, optimal transport, reinforcement learning
+- Technical Skills: Python, R, SQL, TensorFlow, etc.
+- Cat’s Name: Tyga
+- Languages: English, Persian, learning French
+- Astrological Sign: Scorpio
+- Recent Travel: Netherlands, Spain, Portugal, France, Belgium, Germany
+- Passions: AI research, fitness, personal growth, travel
